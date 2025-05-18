@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "title": "Programming Languages",
+    "author": "Kent D. Lee",
+    "imageUrl": "http://books.google.com/books/content?id\u003dOuW5dC2O99AC\u0026printsec\u003dfrontcover\u0026img\u003d1\u0026zoom\u003d1\u0026edge\u003dcurl\u0026source\u003dgbs_api",
+    "category": "",
+    "status": "",
+    "viewCount": 3,
+    "updatedAt": "",
+    "summary": ""
+  },
+  {
+    "id": 0,
+    "title": "Programming .NET Components",
+    "author": "Juval Lowy",
+    "imageUrl": "http://books.google.com/books/content?id\u003dm7E4la3JAVcC\u0026printsec\u003dfrontcover\u0026img\u003d1\u0026zoom\u003d1\u0026edge\u003dcurl\u0026source\u003dgbs_api",
+    "category": "",
+    "status": "",
+    "viewCount": 0,
+    "updatedAt": "",
+    "summary": ""
+  },
+  {
+    "id": 0,
+    "title": "Linear Genetic Programming",
+    "author": "Markus F. Brameier, Wolfgang Banzhaf",
+    "imageUrl": "http://books.google.com/books/content?id\u003dAhZJ9SIChnQC\u0026printsec\u003dfrontcover\u0026img\u003d1\u0026zoom\u003d1\u0026edge\u003dcurl\u0026source\u003dgbs_api",
+    "category": "",
+    "status": "",
+    "viewCount": 0,
+    "updatedAt": "",
+    "summary": ""
+  },
+  {
+    "id": 0,
+    "title": "Head first Java",
+    "author": "Kathy Sierra",
+    "imageUrl": "https://covers.openlibrary.org/b/id/388761-M.jpg",
+    "category": "",
+    "status": "",
+    "viewCount": 0,
+    "updatedAt": "",
+    "summary": ""
+  },
+  {
+    "id": 0,
+    "title": "Java",
+    "author": "Herbert Schildt",
+    "imageUrl": "https://covers.openlibrary.org/b/id/62098-M.jpg",
+    "category": "",
+    "status": "",
+    "viewCount": 0,
+    "updatedAt": "",
+    "summary": ""
+  }
+]
